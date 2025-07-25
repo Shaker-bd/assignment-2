@@ -1,0 +1,11 @@
+body {
+            font-family: 'Inter', sans-serif;
+            color: rgba(137, 135, 161, 1);
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: "Noto Serif", serif;
+            font-variation-settings:
+            "wdth" 100;
+            font-weight: bold;
+        }
